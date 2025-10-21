@@ -10,14 +10,6 @@ Exploring **Distributed Systems**, **Database Internals**, and **Parallel Progra
 
 ---
 
-## About Me
-
-- Passionate about **systems programming** and **low-level design**  
-- Interested in **B+ Trees**, **LSM Trees**, and **transaction control mechanisms**  
-- Constantly experimenting with **Rust**, **C++**, and **Go** to push performance boundaries  
-
----
-
 ## Tech Stack
  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
