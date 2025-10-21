@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="poster.gif" alt="Intro Banner" width="100%">
+  <img src="banner.gif" alt="Intro Banner" width="100%">
 </p>
 
 # Hi, I'm Tejas Ramakrishnan 👋
