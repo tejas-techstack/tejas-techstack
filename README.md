@@ -47,3 +47,5 @@ Exploring **Distributed Systems**, **Database Internals**, and **Parallel Progra
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tejas.techstack@gmail.com)
 
 ---
+
+Credits to [@suchitraShankar07](https://github.com/SuchitraShankar07) for the banner and profile picture design
