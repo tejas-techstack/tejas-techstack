@@ -34,12 +34,6 @@ Exploring **Distributed Systems**, **Database Internals**, and **Parallel Progra
 
 ---
 
-## GitHub Stats
-
-![Tejas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=tejas-techstack&show_icons=true&theme=radical)
-
----
-
 ## Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://tejasr.in)
